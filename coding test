@@ -1,0 +1,31 @@
+package Class;
+
+public class testsecDemensi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int sum, tolsum;
+		
+		int [][] b = {
+				{1,2,3},
+				{5,6,7},
+				{8,9,10}
+		};
+		
+	tolsum=0;
+	for (int a=0;a<b.length;a++)
+	{
+		sum=0;
+		for (int c=0;c<b.length;c++)
+		{
+			System.out.println(b[a][c]);
+			sum=sum+b[a][c];
+		}
+		tolsum= tolsum + sum;
+		
+		System.out.println(sum);
+		System.out.println(tolsum);
+		}
+	}
+	
+	}
