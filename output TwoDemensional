@@ -1,0 +1,18 @@
+Enter Row length of an array : 
+3
+Enter column length of an array : 
+2
+Enter 6 Elements to Store in Array :
+22
+33
+44
+55
+66
+77
+Elements in Array are :
+Row [0]:  Column [0] :22
+Row [0]:  Column [1] :33
+Row [1]:  Column [0] :44
+Row [1]:  Column [1] :55
+Row [2]:  Column [0] :66
+Row [2]:  Column [1] :77
