@@ -1,0 +1,8 @@
+Two dimensional string array elements are :
+
+str[0][0]:one
+str[0][1]:two
+str[1][0]:three
+str[1][1]:four
+str[2][0]:five
+str[2][1]:six
